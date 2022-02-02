@@ -9,7 +9,9 @@ package calculator2;
  * @author 100172460
  */
 public class Calculator2 {
-
+    String name;
+    
+    public int add(int) 
     /**
      * @param args the command line arguments
      */
